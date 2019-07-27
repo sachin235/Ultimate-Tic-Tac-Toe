@@ -1,0 +1,15 @@
+body
+{
+    margin:0;
+}
+#box
+{
+    position: absolute;
+    height: 300px;
+    width: 300px;
+}
+canvas
+{
+    background-image: url('a.jpg');
+    background-size: cover;
+}
